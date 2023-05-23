@@ -1,0 +1,12 @@
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+E:\kpi\.NET\lab3\lab3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
